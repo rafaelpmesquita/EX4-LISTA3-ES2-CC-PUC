@@ -1,3 +1,4 @@
+package Exercicio4;
 public class Usuario implements ConsomeNoticia{
 
         public Usuario(String nome) {

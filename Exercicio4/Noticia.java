@@ -1,3 +1,4 @@
+package Exercicio4;
 public class Noticia {
     private String textoNoticia;
     private int dia;
